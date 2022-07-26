@@ -1,2 +1,4 @@
-# Hello-Word
- Primeiro Repositorio Versionado Git e Github
+# Hello-Word!
+ Primeiro Repositório Versionado Git e Github
+
+ Repositório criado recentemente
